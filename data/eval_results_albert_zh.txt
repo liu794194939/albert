@@ -1,0 +1,25 @@
+***** Eval results /home/Sentence_Similarity/albert_zh/output/model.ckpt-34000 *****
+eval_accuracy = 0.84388137
+eval_loss = 0.5904459
+global_step = 34000
+loss = 0.5899787
+***** Eval results /home/Sentence_Similarity/albert_zh/output/model.ckpt-35000 *****
+eval_accuracy = 0.84388137
+eval_loss = 0.60109335
+global_step = 35000
+loss = 0.6006178
+***** Eval results /home/Sentence_Similarity/albert_zh/output/model.ckpt-36000 *****
+eval_accuracy = 0.84876716
+eval_loss = 0.58910197
+global_step = 36000
+loss = 0.5886354
+***** Eval results /home/Sentence_Similarity/albert_zh/output/model.ckpt-37000 *****
+eval_accuracy = 0.8493353
+eval_loss = 0.5819863
+global_step = 37000
+loss = 0.5815253
+***** Eval results /home/Sentence_Similarity/albert_zh/output/model.ckpt-37307 *****
+eval_accuracy = 0.8497898
+eval_loss = 0.5811632
+global_step = 37307
+loss = 0.5807029
